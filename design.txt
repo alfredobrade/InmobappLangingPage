@@ -1,0 +1,11 @@
+/static-spa/
+│
+├── index.html          ← Página principal
+├── views/
+│   ├── home.html       ← Vista de inicio
+│   ├── about.html      ← Vista "Acerca de"
+│   └── detalle.html    ← Vista de detalle de inmueble
+├── js/
+│   └── app.js          ← Lógica SPA
+├── css/
+│   └── style.css       ← Estilos
